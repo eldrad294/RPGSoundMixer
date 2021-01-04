@@ -1,0 +1,20 @@
+download_enabled: True
+playlist_path: D:\Projects\RPGSoundMixer\playlist
+playlist:
+  Ambience: https://www.youtube.com/watch?v=frEJTGfLOhM&list=PLju-F94hQ9-LyWEruiRkUzbYmVHalmWSa&ab_channel=TheGuildofAmbience
+  Backdrop: https://www.youtube.com/watch?v=ppYkVUiWZd4&list=PLju-F94hQ9-IrvXuQYYYmPnPIqaoLrtNI&ab_channel=ClassicalandRelax
+  Battle(Generic): https://www.youtube.com/watch?v=NpurphqbhbM&list=PLju-F94hQ9-KPU3rk5OjXRKQ15Fbks10u&ab_channel=WorldMusicOFCL
+  Battle(Chase): https://www.youtube.com/watch?v=GuxZRf-OB7k&list=PLju-F94hQ9-LUmt9zyimrTYD-loeBWf0t&ab_channel=alquimista3312
+  Mood(Creepy): https://www.youtube.com/watch?v=hgWydO4o0f4&list=PLju-F94hQ9-J76VcbOf1jcSn0uAbCz2gR&ab_channel=SoldierJogos.com%E3%80%89%23Rumo100k
+  Mood(Emotional): https://www.youtube.com/watch?v=RBFkl3rSSGU&list=PLju-F94hQ9-LV-o-Qrae7FKlrWxE5g23u&ab_channel=Rithelgo
+  Battle(Epic): https://www.youtube.com/watch?v=XzG-AtyGnMc&list=PLju-F94hQ9-JVI_4XktpTjTpRSQskkYZV&ab_channel=PeachesLamb
+  Mood(Holy): https://www.youtube.com/watch?v=gJapS0meSlc&list=PLju-F94hQ9-LDKLor-jnqgAUtumSYPwfY&ab_channel=Encosen
+  Mood(Horror): https://www.youtube.com/watch?v=iWF_BhA2W1E&list=PLju-F94hQ9-LxKp3bst2QJtbbk-Fz4zXr&ab_channel=HashtagBerserker
+  Intro: https://www.youtube.com/watch?v=2spk_XCyrXY&list=PLju-F94hQ9-KIEwBkP-7nLL1rxvO960mr&ab_channel=JesseCook-Topic
+  Mood(Mischievous): https://www.youtube.com/watch?v=sskF5pnExXY&list=PLju-F94hQ9-JybYhQFPPivL0BWJ9i3orV&ab_channel=WarCraft
+  Mood(Ominous): https://www.youtube.com/watch?v=Ju3vKoJGC1s&list=PLju-F94hQ9-JK_OoeBUmCpO0nHejFOt4w&ab_channel=PeachesLamb
+  Mood(Romantic): https://www.youtube.com/watch?v=L2YqrLQgi6g&list=PLju-F94hQ9-KuWzRaRuGV0pj-A0GGjx_x&ab_channel=KyleGrave
+  Mood(Somber): https://www.youtube.com/watch?v=t9-IYfqecbk&list=PLju-F94hQ9-Iw4lLNJ_dQjUeMTdp8SPV7&ab_channel=YouRRelaX-RelaxingMusic
+  Mood(Suspense): https://www.youtube.com/watch?v=uOcSMRX7WBs&list=PLju-F94hQ9-JrDjUcFNN9y_myxYBEJ8iP&ab_channel=PlayJammerUK
+  Mood(Tavern): https://www.youtube.com/watch?v=GuL1-KkbRYY&list=PLju-F94hQ9-IuFk-hDQSHGFVxWhN_YgLm&ab_channel=Mosavo-Topic
+  Mood(Tension): https://www.youtube.com/watch?v=A-1DLeuxC0M&list=PLju-F94hQ9-Juzs4vd7QxBhgnxgNZdYps&ab_channel=Nox
